@@ -7,7 +7,6 @@ var images =[
 "https://image.prntscr.com/image/NtTOdE1MTFemmdJY178Ggg.jpg",
 "https://image.prntscr.com/image/TfRo0htRQCGvK6HSdMJG_w.jpg",
 "https://image.prntscr.com/image/CDup9UaMTIK3yOcBI4jZ7A.jpg",
- 
 ]
 $("#slideshow img").attr("src", images[0]);
 $("#next").click(function(){
