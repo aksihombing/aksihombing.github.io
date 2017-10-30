@@ -46,3 +46,7 @@ button{
   height:auto;
   width:auto;
 }
+#slideshow img{
+  border: solid #feceab;
+  border-width:5px;
+}
