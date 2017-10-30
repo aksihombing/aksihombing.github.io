@@ -41,12 +41,10 @@ button{
   background-color:#fff1e5;
   border: solid #2a363b;
 }
-#site{
-  background-color:#feceab;
-  height:auto;
-  width:auto;
-}
 #slideshow img{
   border: solid #feceab;
   border-width:5px;
+}
+#site{
+  background-color:#ff847c;
 }
