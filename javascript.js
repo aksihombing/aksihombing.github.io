@@ -17,4 +17,5 @@ $("#next").click(function(){
 $("#prev").click(function (){
   i = (i+1) % images.length;
   $("#slideshow img").attr("src", images[i])
-})
+});
+var $=[document.getElementById]
