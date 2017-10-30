@@ -9,13 +9,13 @@ var images =[
 "https://image.prntscr.com/image/CDup9UaMTIK3yOcBI4jZ7A.jpg",
  
 ]
-$("#slideshow img").attr("src", images[0]);
-$("#next").click(function(){
+document.getElementById("#slideshow img").attr("src", images[0]);
+document.getElementById("#next").click(function(){
   i = (i+1) % images.length
-  $("#slideshow img").attr("src", images[i]);
+  document.getElementById("#slideshow img").attr("src", images[i]);
 })
-$("#prev").click(function (){
+document.getElementById("#prev").click(function (){
   i = (i+1) % images.length;
-  $("#slideshow img").attr("src", images[i])
+  document.getElementById("#slideshow img").attr("src", images[i])
 });
-var $=[document.getElementById]
+
