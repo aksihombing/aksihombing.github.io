@@ -1,2 +1,4 @@
-	name: Adreeny
-	markdown: kramdown
+---
+name: Adreeny
+markdown: kramdown
+---
