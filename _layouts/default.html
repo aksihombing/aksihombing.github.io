@@ -2,6 +2,9 @@
 <html lang="en">
 	{% include head.html %}
 <body>
+	{% for post in site.posts %}
+	<h2> {{ post.title }}
+	{% end for %}
   <div class="content">
   {{content}}
 </div>
