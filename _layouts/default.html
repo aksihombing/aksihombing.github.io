@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	{% include head.html %}
+	(% include nav.html %}
 <body>
 	{% for post in site.posts limit:3 %}
 	<h2> {{ post.title }} </h3>
