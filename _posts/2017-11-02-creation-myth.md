@@ -1,6 +1,6 @@
 ---
 layout: post
-title: essay
+title: creation myth
 date: 2017-11-02
 ---
 <div class="content">
