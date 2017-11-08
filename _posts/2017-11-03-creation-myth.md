@@ -1,10 +1,9 @@
 ---
 layout: post
-title: creation myth
+title: Why the Moon Orbits the Earth
 date: 2017-11-03
 ---
 <div class="content">
-<h2> Why the Moon Orbits the Earth </h2>
 <p>
  Before Earth was formed, there was only Matahari and Bulan who lived in space, a dark, cold, and empty place. Matahari was a beautiful and radiant goddess. She was always happy and patient. Bulan, however, was always dissatisfied with the way things were. He complained about how cold and boring it was whenever he had the chance. Matahari listened to his complaints with a patient smile on her face each time. She would often offer alternative solutions to his problems, but he’d shut each of them down for being “not reasonable” or “too silly”. He even shut down her planned out ideas, which frustrated her, but she always smiled in the end. 
 </p>
