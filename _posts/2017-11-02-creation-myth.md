@@ -1,7 +1,7 @@
 ---
-layout:post
-title:essay
-date:2017-11-02
+layout: post
+title: essay
+date: 2017-11-02
 ---
 <div class="content">
 <h2> Why the Moon Orbits the Earth </h2>
