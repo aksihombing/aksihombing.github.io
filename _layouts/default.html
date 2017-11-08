@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 	{% include head.html %}
+	{% include header.html %}
 	{% include nav.html %}
 <body>
+	<div class="post">
 	{% for post in site.posts limit:3 %}
 	<h2> {{ post.title }} </h3>
 	<p> {{ post.date }} </p>
 	{{ post.excerpt }}
 	{% endfor %}
+	</div>
 	
   <div class="content">
   {{ content }}
