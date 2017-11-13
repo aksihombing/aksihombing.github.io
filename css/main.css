@@ -4,6 +4,7 @@ body{
   height:auto;
   background-color:#feceab;
 }
+*{text-align:center;}
 #links{
   background-color:#2a363b;
   text-align:center;
